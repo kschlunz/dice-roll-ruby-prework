@@ -5,5 +5,5 @@
 def roll
   rand(1...6)
 
-  roll
+
 end
